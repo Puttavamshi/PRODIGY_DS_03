@@ -16,7 +16,7 @@ Build a machine learning model to predict customer subscription behavior using a
 - Important features: duration, poutcome, balance
 
 ## 📊 Output
-![Confusion Matrix](https://github.com/yourusername/PRODIGY_DS_03/raw/main/screenshots/confusion_matrix.png)
+![confusion_matrix]https://github.com/Puttavamshi/PRODIGY_DS_03/raw/main/Screenshots/confusion_matrix.png.jpeg
 ![Feature Importance](screenshots/feature_importance.png)
 
 ## 💡 Key Insights
