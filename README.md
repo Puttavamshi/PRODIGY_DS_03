@@ -24,6 +24,7 @@ Build a machine learning model to predict customer subscription behavior using a
 ![Feature Importance](https://github.com/Puttavamshi/PRODIGY_DS_03/raw/main/Screenshots/feature_importance.png.jpeg)
 
 ## 💡 Key Insights
-- Customer attributes significantly impact subscription decisions
-- Model generalization improved after tuning
-- ML can help target the right customers effectively
+- Customer attributes significantly impact subscription decisions  
+- Duration and previous campaign outcome are strong predictors  
+- Model performance improved after controlling overfitting  
+- Machine Learning enables better customer targeting strategies  
